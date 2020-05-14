@@ -1,0 +1,20 @@
+{
+  "name": "userauthentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "express": "^4.17.1",
+    "jio": "^3.39.0",
+    "joi": "^14.3.1",
+    "joi-objectid": "^3.0.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.14"
+  }
+}
